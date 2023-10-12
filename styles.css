@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+
+body {
+    background: linear-gradient(90deg, rgba(97,101,18,1) 0%, rgba(187,148,60,1) 46%, rgba(193,125,23,1) 77%);
+}
+
+div{
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: stretch;
+}
+.name{
+    text-align: center;
+}
+
+a {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif  
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.choice {
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: inline-block;
+}
+
+ul {
+    display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	align-items: center;
+	align-content: center;
+}
+
+

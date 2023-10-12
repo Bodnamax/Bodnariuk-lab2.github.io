@@ -1,1 +1,1 @@
-# Bodnariuk-lab2.github.io
+# Bodnariuk.github.io
